@@ -1,0 +1,12 @@
+git
+maven
+jenkins
+sonarqube
+artifactory
+docker
+kubernetes
+terraform
+datadog
+shellscript
+xml/json/Yaml etc...
+AWS Cloud infra devops 
